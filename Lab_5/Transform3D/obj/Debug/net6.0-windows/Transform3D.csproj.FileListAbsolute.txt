@@ -1,0 +1,36 @@
+C:\Users\anane\Downloads\Transform3D (1)\Transform3D\bin\Debug\net6.0-windows\Transform3D.exe
+C:\Users\anane\Downloads\Transform3D (1)\Transform3D\bin\Debug\net6.0-windows\Transform3D.deps.json
+C:\Users\anane\Downloads\Transform3D (1)\Transform3D\bin\Debug\net6.0-windows\Transform3D.runtimeconfig.json
+C:\Users\anane\Downloads\Transform3D (1)\Transform3D\bin\Debug\net6.0-windows\Transform3D.dll
+C:\Users\anane\Downloads\Transform3D (1)\Transform3D\bin\Debug\net6.0-windows\Transform3D.pdb
+C:\Users\anane\Downloads\Transform3D (1)\Transform3D\obj\Debug\net6.0-windows\Transform3D.MainForm.resources
+C:\Users\anane\Downloads\Transform3D (1)\Transform3D\obj\Debug\net6.0-windows\Transform3D.OpenGL.resources
+C:\Users\anane\Downloads\Transform3D (1)\Transform3D\obj\Debug\net6.0-windows\Transform3D.RenderControl.resources
+C:\Users\anane\Downloads\Transform3D (1)\Transform3D\obj\Debug\net6.0-windows\Transform3D.csproj.GenerateResource.cache
+C:\Users\anane\Downloads\Transform3D (1)\Transform3D\obj\Debug\net6.0-windows\Transform3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anane\Downloads\Transform3D (1)\Transform3D\obj\Debug\net6.0-windows\Transform3D.AssemblyInfoInputs.cache
+C:\Users\anane\Downloads\Transform3D (1)\Transform3D\obj\Debug\net6.0-windows\Transform3D.AssemblyInfo.cs
+C:\Users\anane\Downloads\Transform3D (1)\Transform3D\obj\Debug\net6.0-windows\Transform3D.csproj.CoreCompileInputs.cache
+C:\Users\anane\Downloads\Transform3D (1)\Transform3D\obj\Debug\net6.0-windows\Transform3D.dll
+C:\Users\anane\Downloads\Transform3D (1)\Transform3D\obj\Debug\net6.0-windows\refint\Transform3D.dll
+C:\Users\anane\Downloads\Transform3D (1)\Transform3D\obj\Debug\net6.0-windows\Transform3D.pdb
+C:\Users\anane\Downloads\Transform3D (1)\Transform3D\obj\Debug\net6.0-windows\Transform3D.genruntimeconfig.cache
+C:\Users\anane\Downloads\Transform3D (1)\Transform3D\obj\Debug\net6.0-windows\ref\Transform3D.dll
+E:\OneDrive\Рабочий стол\Transform3D (1)\Transform3D\bin\Debug\net6.0-windows\Transform3D.exe
+E:\OneDrive\Рабочий стол\Transform3D (1)\Transform3D\bin\Debug\net6.0-windows\Transform3D.deps.json
+E:\OneDrive\Рабочий стол\Transform3D (1)\Transform3D\bin\Debug\net6.0-windows\Transform3D.runtimeconfig.json
+E:\OneDrive\Рабочий стол\Transform3D (1)\Transform3D\bin\Debug\net6.0-windows\Transform3D.dll
+E:\OneDrive\Рабочий стол\Transform3D (1)\Transform3D\bin\Debug\net6.0-windows\Transform3D.pdb
+E:\OneDrive\Рабочий стол\Transform3D (1)\Transform3D\obj\Debug\net6.0-windows\Transform3D.MainForm.resources
+E:\OneDrive\Рабочий стол\Transform3D (1)\Transform3D\obj\Debug\net6.0-windows\Transform3D.OpenGL.resources
+E:\OneDrive\Рабочий стол\Transform3D (1)\Transform3D\obj\Debug\net6.0-windows\Transform3D.RenderControl.resources
+E:\OneDrive\Рабочий стол\Transform3D (1)\Transform3D\obj\Debug\net6.0-windows\Transform3D.csproj.GenerateResource.cache
+E:\OneDrive\Рабочий стол\Transform3D (1)\Transform3D\obj\Debug\net6.0-windows\Transform3D.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Рабочий стол\Transform3D (1)\Transform3D\obj\Debug\net6.0-windows\Transform3D.AssemblyInfoInputs.cache
+E:\OneDrive\Рабочий стол\Transform3D (1)\Transform3D\obj\Debug\net6.0-windows\Transform3D.AssemblyInfo.cs
+E:\OneDrive\Рабочий стол\Transform3D (1)\Transform3D\obj\Debug\net6.0-windows\Transform3D.csproj.CoreCompileInputs.cache
+E:\OneDrive\Рабочий стол\Transform3D (1)\Transform3D\obj\Debug\net6.0-windows\Transform3D.dll
+E:\OneDrive\Рабочий стол\Transform3D (1)\Transform3D\obj\Debug\net6.0-windows\refint\Transform3D.dll
+E:\OneDrive\Рабочий стол\Transform3D (1)\Transform3D\obj\Debug\net6.0-windows\Transform3D.pdb
+E:\OneDrive\Рабочий стол\Transform3D (1)\Transform3D\obj\Debug\net6.0-windows\Transform3D.genruntimeconfig.cache
+E:\OneDrive\Рабочий стол\Transform3D (1)\Transform3D\obj\Debug\net6.0-windows\ref\Transform3D.dll
